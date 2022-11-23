@@ -10,8 +10,11 @@ Estrutura de pastas
     
 ## Pasta: arrendamento
 
-Situação
+Contexto
 Análise de arrendamento para Ale para duas propriedades na Amazônia
 
-Outputs
-Valores de arrendamento compartilhado com Ale
+Data da entrega
+23-11-2022
+
+Resultados
+Tabela com valores de NPV e IRR para diferentes parcelas de arrendamento compartilhado com Ale
