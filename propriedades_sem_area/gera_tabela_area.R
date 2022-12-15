@@ -37,4 +37,5 @@ for(i in 1:nrow(df)) {
 
 df <- df[, c(1, 3)]
 
-write.csv2(df, "propriedades_sem_area/propriedades_sem_area.csv", row.names = FALSE)
+write.csv2(df, "propriedades_sem_area/areas_propriedades_faltantes.csv", row.names = FALSE)
+
